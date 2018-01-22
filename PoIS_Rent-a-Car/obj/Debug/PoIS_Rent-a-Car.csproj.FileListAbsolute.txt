@@ -1,0 +1,143 @@
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe.config
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignColors.dll
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.baml
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.g.cs
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.g.cs
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.cache
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.lref
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.baml
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.g.resources
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent_a_Car.Properties.Resources.resources
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.exe
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.baml
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.g.cs
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.baml
+C:\Users\Marko\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe.config
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignColors.dll
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csprojResolveAssemblyReference.cache
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.cache
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.lref
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.g.resources
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent_a_Car.Properties.Resources.resources
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.GenerateResource.Cache
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.CoreCompileInputs.cache
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.exe
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\BespokeFusion.dll
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.dll
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.pdb
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.xml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Zaposleni.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Zaposleni.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Osiguranje.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Osiguranje.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\DodatnaOprema.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\DodatnaOprema.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Vozilo.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Vozilo.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Korisnik.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Korisnik.g.cs
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Rezervacija.baml
+C:\Users\BOGOTAC\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Rezervacija.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe.config
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\BespokeFusion.dll
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.dll
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignColors.dll
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.pdb
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.xml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Korisnik.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Osiguranje.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Rezervacija.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Vozilo.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Zaposleni.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Korisnik.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Osiguranje.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Rezervacija.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Vozilo.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Zaposleni.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.g.cs
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.cache
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.lref
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.baml
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.g.resources
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent_a_Car.Properties.Resources.resources
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.GenerateResource.Cache
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.CoreCompileInputs.cache
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.exe
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csprojResolveAssemblyReference.cache
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe.config
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.exe
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\PoIS_Rent-a-Car.pdb
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\BespokeFusion.dll
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.dll
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignColors.dll
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.pdb
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MahApps.Metro.xml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csprojResolveAssemblyReference.cache
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Korisnik.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Osiguranje.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Rezervacija.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Vozilo.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Zaposleni.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\AdminMain.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Korisnik.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Login.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Osiguranje.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Rezervacija.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Vozilo.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\Forme\Zaposleni.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\MainWindow.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.g.cs
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.cache
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car_MarkupCompile.lref
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\App.baml
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.g.resources
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent_a_Car.Properties.Resources.resources
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.GenerateResource.Cache
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.csproj.CoreCompileInputs.cache
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.exe
+C:\Users\KATIC M\Downloads\Poslovni informacioni sistem\Aplikacija\PoIS_Rent-a-Car\PoIS_Rent-a-Car\obj\Debug\PoIS_Rent-a-Car.pdb
