@@ -1,0 +1,57 @@
+﻿<Window x:Class="PoIS_Rent_a_Car.Forme.Zaposleni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d" Height="480" Width="720" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Margin="10,10,5,0" TextWrapping="Wrap" Height="46" FontSize="36" FontFamily="Perpetua Titling MT" Text="  ADD NEW EMPLOYEE INFORMATION" Foreground="#FF673AB7" VerticalAlignment="Top"/>
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="250" Margin="23,94,0,0" VerticalAlignment="Top" Width="310" BorderBrush="{DynamicResource DynamicBG}">
+            <TextBlock Text="Personal information" Foreground="#FF673AB7" FontStyle="Italic" Margin="0,0,0,0" />
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="160" Margin="366,94,0,0" VerticalAlignment="Top" Width="310">
+            <TextBlock Text="Contact information" Foreground="#FF673AB7" FontStyle="Italic" Margin="0,0,0,0" />
+        </Border>
+        <TextBox x:Name="txtName" materialDesign:HintAssist.Hint="   First name" HorizontalAlignment="Left" Height="23" Margin="77,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="txtSecond" materialDesign:HintAssist.Hint="   Second name" HorizontalAlignment="Left" Height="23" Margin="77,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <DatePicker x:Name="dataBirth" materialDesign:HintAssist.Hint="   Birth Date" HorizontalAlignment="Left" Margin="77,242,0,0" VerticalAlignment="Top" RenderTransformOrigin="-11.333,-6.32" FirstDayOfWeek="Monday" Width="107" />
+        <TextBox x:Name="txtPhone" materialDesign:HintAssist.Hint="   Phone" HorizontalAlignment="Left" Height="23" Margin="429,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161"/>
+        <TextBox x:Name="txtEmail" materialDesign:HintAssist.Hint="   e-mail" HorizontalAlignment="Left" Height="23" Margin="429,175,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161"/>
+        <RadioButton x:Name="rbMale" Content="Male" HorizontalAlignment="Left" Margin="77,294,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbFemale" Content="Female" HorizontalAlignment="Left" Margin="177,294,0,0" VerticalAlignment="Top"/>
+        <materialDesign:PackIcon Kind="GenderMale" Height="20" Width="20" Margin="132,294,0,0" RenderTransformOrigin="0.125,0.438"></materialDesign:PackIcon>
+        <materialDesign:PackIcon Kind="GenderFemale" Height="20" Width="20" Margin="245,294,0,0" RenderTransformOrigin="1.25,0.6"></materialDesign:PackIcon>
+        <ComboBox x:Name="cbCity" materialDesign:HintAssist.Hint="   City" HorizontalAlignment="Left" Margin="429,219,0,0" VerticalAlignment="Top" Width="124">
+            <ComboBoxItem Content="Beograd" Background="BlueViolet"/>
+            <ComboBoxItem Content="Novi Sad" Background="#FF673AB7"/>
+            <ComboBoxItem Content="Nis" Background="BlueViolet"/>
+        </ComboBox>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="80" Margin="366,264,0,0" VerticalAlignment="Top" Width="310">
+            <TextBlock Text="Employment Information" Foreground="#FF673AB7" FontStyle="Italic" Margin="0,0,0,0" />
+        </Border>
+        <ComboBox x:Name="cbTitle" materialDesign:HintAssist.Hint="   Job Title" HorizontalAlignment="Left" Margin="383,294,0,0" VerticalAlignment="Top" Width="125">
+            <ComboBoxItem Content="Rental Sales Agent"/>
+            <ComboBoxItem Content="Vehicle Service Agent"/>
+            <ComboBoxItem Content="Return Agent"/>
+            <ComboBoxItem Content="Car Detailer"/>
+            <ComboBoxItem Content="Location Manager"/>
+        </ComboBox>
+        <ComboBox x:Name="cbType" materialDesign:HintAssist.Hint="   Employment Type" HorizontalAlignment="Left" Margin="530,294,0,0" VerticalAlignment="Top" Width="131">
+            <ComboBoxItem Content="Full-Time"/>
+            <ComboBoxItem Content="Part-Time"/>
+            <ComboBoxItem Content="Fixed Term"/>
+            <ComboBoxItem Content="Trainees"/>
+            <ComboBoxItem Content="Probation"/>
+        </ComboBox>
+        <Button x:Name="btAdd" Click="btAdd_Click" Content="ADD" HorizontalAlignment="Left" Margin="233,385,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="btDelete" Click="btDelete_Click" Content="Delete" Background="Crimson" HorizontalAlignment="Left" Margin="366,385,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>

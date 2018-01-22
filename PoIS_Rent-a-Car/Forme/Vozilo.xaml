@@ -1,0 +1,60 @@
+﻿<Window x:Class="PoIS_Rent_a_Car.Forme.Vozilo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d" Height="480" Width="720" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Margin="113,19,141,0" TextWrapping="Wrap" Height="64" FontSize="45" FontFamily="Perpetua Titling MT" Text="  ADD NEW VEHICLE" Foreground="#FF673AB7" VerticalAlignment="Top"/>
+        <Border BorderBrush="#FF673AB7" BorderThickness="1" HorizontalAlignment="Left" Height="254" Margin="10,88,0,0" VerticalAlignment="Top" Width="671">
+            <ComboBox x:Name="cbMake" materialDesign:HintAssist.Hint="   Make" Margin="65,56,442,168">
+                <ComboBoxItem Content="Alfa Romeo"/>
+                <ComboBoxItem Content="Audi"/>
+                <ComboBoxItem Content="BMW"/>
+                <ComboBoxItem Content="Chevrolet"/>
+                <ComboBoxItem Content="FIAT"/>
+                <ComboBoxItem Content="Ford"/>
+                <ComboBoxItem Content="Honda"/>
+                <ComboBoxItem Content="Kia"/>
+                <ComboBoxItem Content="Mercedes"/>
+                <ComboBoxItem Content="Nissan"/>
+                <ComboBoxItem Content="Tesla"/>
+                <ComboBoxItem Content="Toyota"/>
+                <ComboBoxItem Content="VW"/>
+            </ComboBox>
+        </Border>
+        <TextBox x:Name="txtModel" materialDesign:HintAssist.Hint="   Model" HorizontalAlignment="Left" Height="23" Margin="78,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <CheckBox x:Name="chAir" Content="Air conditioning" HorizontalAlignment="Left" Margin="78,250,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.509,0.056"/>
+        <ComboBox x:Name="cbTransmission" materialDesign:HintAssist.Hint="   Transmission" HorizontalAlignment="Left" Margin="376,148,0,0" VerticalAlignment="Top" Width="179">
+            <ComboBoxItem Content="Manual"/>
+            <ComboBoxItem Content="Automatic"/>
+            <ComboBoxItem Content="Semi-automatic"/>
+            <ComboBoxItem Content="CVT"/>
+        </ComboBox>
+        <ComboBox x:Name="cbType" materialDesign:HintAssist.Hint="   Car Type" HorizontalAlignment="Left" Margin="78,287,0,0" VerticalAlignment="Top" Width="162">
+            <ComboBoxItem Content="Small"/>
+            <ComboBoxItem Content="Mid-size"/>
+            <ComboBoxItem Content="Full-size"/>
+            <ComboBoxItem Content="SUV"/>
+            <ComboBoxItem Content="Sports"/>
+            <ComboBoxItem Content="Luxury"/>
+            <ComboBoxItem Content="Vans"/>
+        </ComboBox>
+        <RadioButton x:Name="rbSeats2" Content="2 seat" HorizontalAlignment="Left" Margin="376,199,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.768,0.556"/>
+        <RadioButton x:Name="rbSeats4" Content="4 seat" HorizontalAlignment="Left" Margin="462,199,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.875,0.444"/>
+        <RadioButton x:Name="rbSeats5" Content="5 seat" HorizontalAlignment="Left" Margin="546,199,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFuel" materialDesign:HintAssist.Hint="   km/l" HorizontalAlignment="Left" Height="23" Margin="376,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrice" materialDesign:HintAssist.Hint="   Price per day €" HorizontalAlignment="Left" Height="23" Margin="376,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129"/>
+        <Button x:Name="btAdd" Click="btAdd_Click" Content="ADD" HorizontalAlignment="Left" Margin="191,373,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.37,0.438"/>
+        <Button x:Name="btCancel" Click="btCancel_Click" Content="Cancel" Background="Crimson" HorizontalAlignment="Left" Margin="376,373,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

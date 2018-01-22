@@ -1,0 +1,34 @@
+﻿<Window x:Class="PoIS_Rent_a_Car.Forme.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        Title="Login" Height="400" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" Height="327" Margin="10,0,0,0" VerticalAlignment="Top" Width="372">
+            <Rectangle Height="132" Stroke="White">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="C:\Users\KATIC M\Desktop\PoIS_Rent-a-Car\Slike\Logo.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+
+        </StackPanel>
+
+        <TextBox x:Name="txtUser" Width="300" materialDesign:HintAssist.Hint="Username" Margin="60,155,32,185"/>
+        <materialDesign:PackIcon Kind="Account" Height="31" Width="30" Margin="25,155,0,0" RenderTransformOrigin="0.5,2.645"/>
+        <PasswordBox x:Name="txtPassword" Width="300" materialDesign:HintAssist.Hint="Password" Margin="60,198,32,138"/>
+        <materialDesign:PackIcon Kind="Key" Height="31" Width="30" Margin="25,200,0,0"></materialDesign:PackIcon>
+        <Button x:Name="btLogin" Content="LOGIN" HorizontalAlignment="Left" Margin="148,270,0,0" VerticalAlignment="Top" Width="212" Height="42" Click="btLogin_Click"/>
+        <Button x:Name="btCancel" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="46,270,0,0" Background="Crimson" Click="btCancel_Click" Height="42"/>
+        <Button Content="Forgot your password?" HorizontalAlignment="Left" Margin="182,317,0,0" VerticalAlignment="Top" Width="178" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FF673AB7" Click="btForgot_Click" />
+    </Grid>
+</Window>

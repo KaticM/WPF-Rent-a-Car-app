@@ -1,0 +1,23 @@
+﻿<Window x:Class="PoIS_Rent_a_Car.Forme.Osiguranje"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d" Height="300" Width="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Margin="0,10,0,0" TextWrapping="Wrap" Height="43" FontSize="30" FontFamily="Perpetua Titling MT" Text="     ADD NEW INSURANCE" Foreground="#FF673AB7" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtType" materialDesign:HintAssist.Hint="   Type of Car Insurance" HorizontalAlignment="Left" Height="23" Margin="37,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171"/>
+        <TextBox x:Name="txtCost" materialDesign:HintAssist.Hint="   Cost €" HorizontalAlignment="Left" Height="23" Margin="275,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btDelete" Content="Delete" Background="Crimson" HorizontalAlignment="Left" Margin="275,180,0,0" VerticalAlignment="Top" Width="100" Click="btDelete_Click"/>
+        <Button x:Name="btADD" Content="ADD" HorizontalAlignment="Left" Margin="108,180,0,0" VerticalAlignment="Top" Width="100" Click="btAdd_Click"/>
+
+    </Grid>
+</Window>
